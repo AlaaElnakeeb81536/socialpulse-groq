@@ -32,7 +32,6 @@ import {
   Globe, 
   Heart, 
   RefreshCw, 
-  ExternalLink,
   Info,
   Activity,
   Layers,
